@@ -1,0 +1,4 @@
+- Upload is a passage, not an action.
+- Presence precedes execution.
+- Capability does not imply activation.
+- Delegation replaces intention.
